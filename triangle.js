@@ -5,3 +5,4 @@ function makeLine(length) {
   }
   return line + "\n";
 }
+
